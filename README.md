@@ -1,6 +1,9 @@
 PRESENTACIÓN
 
-Este EXCEL proporciona un marco estructurado para navegar la incertidumbre radical del presente. Las probabilidades calculadas representan estimaciones informadas basadas en patrones históricos, tendencias actuales y restricciones estructurales, pero la convergencia de factores sin precedentes introduce una incertidumbre epistémica irreducible. Los cuatro escenarios contemplados se ven afectados por cinco factores (F1 a F5) que se calculan en sus hojas correspondientes. Tanto las variables de entrada, como sus pesos y las probabilidades base calculadas por el modelo se encuentran en la hoja Modelo Variables V8. Si se deshabilitan las MACROS pueden volverse a instalar siguiendo las instrucciones de las hojas VBA.
+Este EXCEL proporciona un marco estructurado para navegar la incertidumbre radical del presente. Las probabilidades calculadas representan estimaciones informadas basadas en patrones históricos, tendencias actuales y restricciones estructurales, pero la convergencia de factores sin precedentes introduce una incertidumbre epistémica irreducible. Los cuatro escenarios contemplados se ven afectados por cinco factores (F1 a F5) que se calculan en sus hojas correspondientes. Tanto las variables de entrada, como sus pesos y las probabilidades base calculadas por el modelo se encuentran en la hoja Modelo Variables V8. Si se deshabilitan las MACROS pueden volverse a instalar siguiendo las instrucciones de las hojas VBA o En la mayoría de los casos puedes desbloquear las macros modificando las propiedades del archivo de la siguiente manera:
+  1. Abre el Explorador de archivos de Windows y ve a la carpeta donde guardaste el archivo.
+  2. Haz clic derecho sobre el archivo y elige Propiedades en el menú contextual.
+  3. En la parte inferior de la pestaña General, marca la casilla Desbloquear y selecciona Aceptar.
 
 Escenario 1: Declive Hegemónico Acelerado
 
